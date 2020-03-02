@@ -9,3 +9,7 @@ Create a GitHub App that automatically posts a comment each time an issue is ope
 
 Please refer to the [Instructions README](https://github.com/pierluigi/github-craftwork-azure/blob/master/instructions/readme.md)
 
+Add a simple change here! This makes the readme much clearer
+
+
+xyz
